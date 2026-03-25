@@ -1,0 +1,47 @@
+h1{
+    background-color: lightgray;
+    height: 70px;
+    width: 240px;
+    border-width: 10px;
+    border-style: solid;
+    border-color: darkslateblue;
+
+    
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin: auto
+}
+
+a{
+    border-width: 2px;
+    border-style: solid;
+    border-color: red;
+
+    padding: 0%;
+
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+div > p {
+    display: none;
+}
+div:hover > p {
+    display: block;
+}
+
+
+
+a:hover {
+    border-color: black;
+}
+

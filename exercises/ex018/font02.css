@@ -1,0 +1,17 @@
+@font-face {
+    font-family:'love' ;
+    src: url('fonts/Filxgirl.TTF') format('opentype'),;
+    font-weight: normal;
+    font-size: normal;
+}
+
+body {
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 0.7em;
+        text-align: center;
+}
+h1 {
+    font-family: 'love';
+
+    font-size: 3em;
+}
